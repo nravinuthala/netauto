@@ -1,3 +1,4 @@
-name,age,job
-raj,43,trainer
-deep,40,hr
+name,device_type,device_role,site
+CR1,1,2,1
+CS1,1,3,1
+CS1,1,4,1
